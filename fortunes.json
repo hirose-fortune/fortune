@@ -2,7 +2,8 @@
   {
     "name": "中吉02",
     "fortune": "中吉",
-    "message": "新しい出会いがありそう\n(=´∀｀)人(´∀｀=)\n一期一会、大切にね〜",
+    "message": "新しい出会いがありそう(=´∀｀)人(´∀｀=)\n一期一会、大切にね〜",
+    "luckyItem": "鏡",
     "weight": 1,
     "active": true
   },
@@ -10,6 +11,7 @@
     "name": "中吉03",
     "fortune": "中吉",
     "message": "ちょっと余裕ある日d(￣ ￣)\n暇な時間ありそう",
+    "luckyItem": "Jazz",
     "weight": 5,
     "active": true
   },
@@ -17,13 +19,15 @@
     "name": "末吉01",
     "fortune": "末吉",
     "message": "少し疲れが溜まる日(￣ー￣)\n甘い物やコーヒーで休憩をとりましょう、いい気分転換になりますよ",
+    "luckyItem": "チョコレート",
     "weight": 5,
     "active": true
   },
   {
     "name": "吉04",
     "fortune": "吉",
-    "message": "周りから頼りにされる日\nᕦ(ò_óˇ)ᕤ\n無理せず、自分のペースで引き受けましょう",
+    "message": "周りから頼りにされる日ᕦ(ò_óˇ)ᕤ\n無理せず、自分のペースで引き受けましょう",
+    "luckyItem": "動物の写真",
     "weight": 5,
     "active": true
   },
@@ -31,6 +35,7 @@
     "name": "吉05",
     "fortune": "吉",
     "message": "感謝される日になりそう♪(๑ᴖ◡ᴖ๑)♪\nそれだけで何だか頑張れちゃいますよね",
+    "luckyItem": "ハンドクリーム",
     "weight": 5,
     "active": true
   },
@@ -38,6 +43,7 @@
     "name": "大吉04",
     "fortune": "大吉",
     "message": "凪みたいな日( ˘ω˘ )\n何もないっていいですよね",
+    "luckyItem": "3色ボールペン",
     "weight": 1,
     "active": true
   },
@@ -45,6 +51,7 @@
     "name": "小吉03",
     "fortune": "小吉",
     "message": "可もなく不可もなくな日になりそうやで（＾ω＾）\n体調には気をつけてクレメンス（＾ω＾）",
+    "luckyItem": "パズルゲーム",
     "weight": 5,
     "active": true
   },
@@ -52,6 +59,7 @@
     "name": "凶01",
     "fortune": "凶",
     "message": "電話多い日かも(ｰ ｰ;)\n舌打ちよりも深呼吸ですよ♬",
+    "luckyItem": "植物",
     "weight": 5,
     "active": true
   },
@@ -59,13 +67,15 @@
     "name": "中吉04",
     "fortune": "中吉",
     "message": "何があっても上手くこなせそうd(^_^o)\n自分の成長を感じられるかも",
+    "luckyItem": "リンゴジュース",
     "weight": 5,
     "active": true
   },
   {
     "name": "中吉05",
     "fortune": "中吉",
-    "message": "頑張りが報われる日\n(*´ω`*)\nいつもお疲れ様です♪\n自分にご褒美とかどうですか？",
+    "message": "頑張りが報われる日(*´ω`*)\nいつもお疲れ様です♪自分にご褒美とかどうですか？",
+    "luckyItem": "目薬",
     "weight": 5,
     "active": true
   },
@@ -73,6 +83,7 @@
     "name": "末吉03",
     "fortune": "末吉",
     "message": "システム不良に見舞われるかも( ´△｀)\nその間に他の仕事をして、効率化を図っちゃいましょう",
+    "luckyItem": "ホラー映画",
     "weight": 1,
     "active": true
   },
@@ -80,6 +91,7 @@
     "name": "小吉02",
     "fortune": "小吉",
     "message": "概ね順調な日✌︎('ω')✌︎\nご飯はしっかり噛んで食べるといいですよ",
+    "luckyItem": "おにぎり",
     "weight": 5,
     "active": true
   },
@@ -87,13 +99,15 @@
     "name": "中吉01",
     "fortune": "中吉",
     "message": "新しいことにチャレンジできるかも(｀・ω・´)\n前進！前進！",
+    "luckyItem": "ハンカチ（ウエスでも可）",
     "weight": 1,
     "active": true
   },
   {
     "name": "凶02",
     "fortune": "凶",
-    "message": "何やってもイマイチな日\n。・°°・(＞_＜)・°°・。\nどうする事もできませんが、あなたの日頃の頑張りはみんな見てますよ",
+    "message": "何やってもイマイチな日。・°°・(＞_＜)・°°・。\nどうする事もできませんが、あなたの日頃の頑張りはみんな見てますよ",
+    "luckyItem": "のど飴",
     "weight": 1,
     "active": true
   },
@@ -101,6 +115,7 @@
     "name": "大凶02",
     "fortune": "大凶",
     "message": "人間関係トラブルに巻き込まれそうな日(´；Д；`)\nストレスは万病の元なのに！",
+    "luckyItem": "カレンダー",
     "weight": 1,
     "active": true
   },
@@ -108,6 +123,7 @@
     "name": "吉02",
     "fortune": "吉",
     "message": "トラブル神回避の日(-｡-;\n何かあっても焦らずに対応ですよ！応援しています！",
+    "luckyItem": "ミネラルウォーター",
     "weight": 5,
     "active": true
   },
@@ -115,6 +131,7 @@
     "name": "吉03",
     "fortune": "吉",
     "message": "意外な人と仲が深まる日になりそう(*^_^*)\nキッカケって大事",
+    "luckyItem": "本",
     "weight": 1,
     "active": true
   },
@@ -122,6 +139,7 @@
     "name": "凶05",
     "fortune": "凶",
     "message": "仕事が終わったら早く帰るのをおすすめします…。駐車場や喫煙所で長話に捕まってしまうかもしれませんから…。\n:(；ﾞﾟ'ωﾟ'):",
+    "luckyItem": "傘",
     "weight": 5,
     "active": true
   },
@@ -129,13 +147,15 @@
     "name": "大凶01",
     "fortune": "大凶",
     "message": "終わりの日( ＾∀＾)\nまあそう言う日もあります\n何とも無かったら、私の読みミスだと思ってください\nｽﾏﾝﾈ",
+    "luckyItem": "中華料理",
     "weight": 1,
     "active": true
   },
   {
     "name": "大吉02",
     "fortune": "大吉",
-    "message": "誰かから褒められるかも\n♪( ´▽｀)\n頑張ってるんだから、毎日褒めて欲しいけどね（笑）",
+    "message": "誰かから褒められるかも♪( ´▽｀)\n頑張ってるんだから、毎日褒めて欲しいけどね（笑）",
+    "luckyItem": "付箋",
     "weight": 5,
     "active": true
   },
@@ -143,6 +163,7 @@
     "name": "末吉05",
     "fortune": "末吉",
     "message": "…とりあえず頑張る日！\n＼(^o^)／ ﾜｰｲ",
+    "luckyItem": "エナジードリンク",
     "weight": 1,
     "active": true
   },
@@ -150,13 +171,15 @@
     "name": "大吉03",
     "fortune": "大吉",
     "message": "ガチ神╰(*´︶`*)╯♬\nトラブル・残業ほぼ無し",
+    "luckyItem": "",
     "weight": 1,
     "active": true
   },
   {
     "name": "吉01",
     "fortune": "吉",
-    "message": "なんかついてる日\n（＾＿＾）☆\nそれを帳消しにしてくる出来事もあるかも…？気をつけて",
+    "message": "なんかついてる日（＾＿＾）☆\nそれを帳消しにしてくる出来事もあるかも…？気をつけて〜",
+    "luckyItem": "スマホ",
     "weight": 5,
     "active": true
   },
@@ -164,6 +187,7 @@
     "name": "凶03",
     "fortune": "凶",
     "message": "フォークリフトに気をつけて_:(´ཀ`」 ∠):\nご安全に！",
+    "luckyItem": "キャラクターグッズ",
     "weight": 5,
     "active": true
   },
@@ -171,6 +195,7 @@
     "name": "小吉01",
     "fortune": "小吉",
     "message": "自販機当たったりしそう（適当）",
+    "luckyItem": "缶コーヒー",
     "weight": 1,
     "active": true
   },
@@ -178,6 +203,7 @@
     "name": "末吉02",
     "fortune": "末吉",
     "message": "トラブルあるかも(-_-;)\n早めに周りを頼るがよい！",
+    "luckyItem": "カメラ",
     "weight": 1,
     "active": true
   },
@@ -185,20 +211,23 @@
     "name": "大吉01",
     "fortune": "大吉",
     "message": "プライベートでいい事ありそう（╹◡╹）♡\n仕事はさっさと切り上げて、帰っちゃいましょ〜",
+    "luckyItem": "季節の花",
     "weight": 5,
     "active": true
   },
   {
     "name": "末吉04",
     "fortune": "末吉",
-    "message": "何だか眠たい一日になるかも\n（´-`）.｡oO\n運転には気をつけて",
+    "message": "何だか眠たい一日になるかも（´-`）.｡oO\n運転には気をつけて",
+    "luckyItem": "ガム",
     "weight": 1,
     "active": true
   },
   {
     "name": "凶04",
     "fortune": "凶",
-    "message": "体調がすぐれないかも\n(Ｔ＿Ｔ)\n無理はせず、早めに休むことをおすすめします",
+    "message": "体調がすぐれないかも(Ｔ＿Ｔ)\n無理はせず、早めに休むことをおすすめします",
+    "luckyItem": "あったかい飲み物",
     "weight": 1,
     "active": true
   }
