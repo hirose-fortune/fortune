@@ -243,8 +243,9 @@
     }
   }
 
-  document.getElementById("again").addEventListener("click", draw);
-  draw();
+  const again = document.getElementById("again");
+again.style.display = "none";   // ボタンを非表示にする
+draw();                         // 開いたときに1回だけ抽選
 </script>
 </body>
 </html>
