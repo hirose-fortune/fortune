@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>運勢占い</title>
+  <style>
+    body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;max-width:720px;margin:32px auto;padding:0 16px;}
+    .card{border:1px solid #ddd;border-radius:12px;padding:18px;}
+    .fortune{font-size:40px;font-weight:800;margin:0 0 8px;}
+    .msg{font-size:18px;line-height:1.6;margin:0;}
+    button{margin-top:14px;padding:10px 14px;border-radius:10px;border:1px solid #ccc;background:#fff;font-size:16px;}
+  </style>
+</head>
+<body>
+  <h1>運勢占い</h1>
+  <div class="card">
+    <div class="fortune" id="fortune">読み込み中…</div>
+    <p class="msg" id="message"></p>
+    <button id="again">もう一回ひく</button>
+  </div>
+
+<script>
+function pickWeighted(items){
+  const list = items.filter(x => x.active !== false);
+  const weights = list.map(x => Math.max(1, Number(x.weight || 1)));
+  const total = weights.reduce((a,b)=>a+b,0);
+  let r = Math.random() * total;
+  for (let i=0;i<list.length;i++){
+    r -= weights[i];
+    if (r <= 0) return list[i];
+  }
+  return list[list.length-1];
+}
+
+async function draw(){
+  const res = await fetch('./fortunes.json', { cache: 'no-store' });
+  const data = await res.json();
+  const item = pickWeighted(data);
+  document.getElementById('fortune').textContent = item.fortune || '---';
+  document.getElementById('message').textContent = item.message || '';
+}
+
+document.getElementById('again').addEventListener('click', draw);
+draw();
+</script>
+</body>
+</html>
