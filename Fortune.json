@@ -1,0 +1,5 @@
+[
+  { "name": "大吉01", "fortune": "大吉", "message": "今日は最高の追い風！", "weight": 1, "active": true },
+  { "name": "中吉01", "fortune": "中吉", "message": "一歩ずつ進めば大丈夫。", "weight": 1, "active": true },
+  { "name": "凶01", "fortune": "凶", "message": "焦らず慎重にいこう。", "weight": 1, "active": true }
+]
