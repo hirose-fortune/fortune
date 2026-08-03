@@ -1,5 +1,205 @@
 [
-  { "name": "大吉01", "fortune": "大吉", "message": "今日は最高の追い風！", "weight": 1, "active": true },
-  { "name": "中吉01", "fortune": "中吉", "message": "一歩ずつ進めば大丈夫。", "weight": 1, "active": true },
-  { "name": "凶01", "fortune": "凶", "message": "焦らず慎重にいこう。", "weight": 1, "active": true }
+  {
+    "name": "中吉02",
+    "fortune": "中吉",
+    "message": "新しい出会いがありそう\n(=´∀｀)人(´∀｀=)\n一期一会、大切にね〜",
+    "weight": 1,
+    "active": true
+  },
+  {
+    "name": "中吉03",
+    "fortune": "中吉",
+    "message": "ちょっと余裕ある日d(￣ ￣)\n暇な時間ありそう",
+    "weight": 5,
+    "active": true
+  },
+  {
+    "name": "末吉01",
+    "fortune": "末吉",
+    "message": "少し疲れが溜まる日(￣ー￣)\n甘い物やコーヒーで休憩をとりましょう、いい気分転換になりますよ",
+    "weight": 5,
+    "active": true
+  },
+  {
+    "name": "吉04",
+    "fortune": "吉",
+    "message": "周りから頼りにされる日\nᕦ(ò_óˇ)ᕤ\n無理せず、自分のペースで引き受けましょう",
+    "weight": 5,
+    "active": true
+  },
+  {
+    "name": "吉05",
+    "fortune": "吉",
+    "message": "感謝される日になりそう♪(๑ᴖ◡ᴖ๑)♪\nそれだけで何だか頑張れちゃいますよね",
+    "weight": 5,
+    "active": true
+  },
+  {
+    "name": "大吉04",
+    "fortune": "大吉",
+    "message": "凪みたいな日( ˘ω˘ )\n何もないっていいですよね",
+    "weight": 1,
+    "active": true
+  },
+  {
+    "name": "小吉03",
+    "fortune": "小吉",
+    "message": "可もなく不可もなくな日になりそうやで（＾ω＾）\n体調には気をつけてクレメンス（＾ω＾）",
+    "weight": 5,
+    "active": true
+  },
+  {
+    "name": "凶01",
+    "fortune": "凶",
+    "message": "電話多い日かも(ｰ ｰ;)\n舌打ちよりも深呼吸ですよ♬",
+    "weight": 5,
+    "active": true
+  },
+  {
+    "name": "中吉04",
+    "fortune": "中吉",
+    "message": "何があっても上手くこなせそうd(^_^o)\n自分の成長を感じられるかも",
+    "weight": 5,
+    "active": true
+  },
+  {
+    "name": "中吉05",
+    "fortune": "中吉",
+    "message": "頑張りが報われる日\n(*´ω`*)\nいつもお疲れ様です♪\n自分にご褒美とかどうですか？",
+    "weight": 5,
+    "active": true
+  },
+  {
+    "name": "末吉03",
+    "fortune": "末吉",
+    "message": "システム不良に見舞われるかも( ´△｀)\nその間に他の仕事をして、効率化を図っちゃいましょう",
+    "weight": 1,
+    "active": true
+  },
+  {
+    "name": "小吉02",
+    "fortune": "小吉",
+    "message": "概ね順調な日✌︎('ω')✌︎\nご飯はしっかり噛んで食べるといいですよ",
+    "weight": 5,
+    "active": true
+  },
+  {
+    "name": "中吉01",
+    "fortune": "中吉",
+    "message": "新しいことにチャレンジできるかも(｀・ω・´)\n前進！前進！",
+    "weight": 1,
+    "active": true
+  },
+  {
+    "name": "凶02",
+    "fortune": "凶",
+    "message": "何やってもイマイチな日\n。・°°・(＞_＜)・°°・。\nどうする事もできませんが、あなたの日頃の頑張りはみんな見てますよ",
+    "weight": 1,
+    "active": true
+  },
+  {
+    "name": "大凶02",
+    "fortune": "大凶",
+    "message": "人間関係トラブルに巻き込まれそうな日(´；Д；`)\nストレスは万病の元なのに！",
+    "weight": 1,
+    "active": true
+  },
+  {
+    "name": "吉02",
+    "fortune": "吉",
+    "message": "トラブル神回避の日(-｡-;\n何かあっても焦らずに対応ですよ！応援しています！",
+    "weight": 5,
+    "active": true
+  },
+  {
+    "name": "吉03",
+    "fortune": "吉",
+    "message": "意外な人と仲が深まる日になりそう(*^_^*)\nキッカケって大事",
+    "weight": 1,
+    "active": true
+  },
+  {
+    "name": "凶05",
+    "fortune": "凶",
+    "message": "仕事が終わったら早く帰るのをおすすめします…。駐車場や喫煙所で長話に捕まってしまうかもしれませんから…。\n:(；ﾞﾟ'ωﾟ'):",
+    "weight": 5,
+    "active": true
+  },
+  {
+    "name": "大凶01",
+    "fortune": "大凶",
+    "message": "終わりの日( ＾∀＾)\nまあそう言う日もあります\n何とも無かったら、私の読みミスだと思ってください\nｽﾏﾝﾈ",
+    "weight": 1,
+    "active": true
+  },
+  {
+    "name": "大吉02",
+    "fortune": "大吉",
+    "message": "誰かから褒められるかも\n♪( ´▽｀)\n頑張ってるんだから、毎日褒めて欲しいけどね（笑）",
+    "weight": 5,
+    "active": true
+  },
+  {
+    "name": "末吉05",
+    "fortune": "末吉",
+    "message": "…とりあえず頑張る日！\n＼(^o^)／ ﾜｰｲ",
+    "weight": 1,
+    "active": true
+  },
+  {
+    "name": "大吉03",
+    "fortune": "大吉",
+    "message": "ガチ神╰(*´︶`*)╯♬\nトラブル・残業ほぼ無し",
+    "weight": 1,
+    "active": true
+  },
+  {
+    "name": "吉01",
+    "fortune": "吉",
+    "message": "なんかついてる日\n（＾＿＾）☆\nそれを帳消しにしてくる出来事もあるかも…？気をつけて",
+    "weight": 5,
+    "active": true
+  },
+  {
+    "name": "凶03",
+    "fortune": "凶",
+    "message": "フォークリフトに気をつけて_:(´ཀ`」 ∠):\nご安全に！",
+    "weight": 5,
+    "active": true
+  },
+  {
+    "name": "小吉01",
+    "fortune": "小吉",
+    "message": "自販機当たったりしそう（適当）",
+    "weight": 1,
+    "active": true
+  },
+  {
+    "name": "末吉02",
+    "fortune": "末吉",
+    "message": "トラブルあるかも(-_-;)\n早めに周りを頼るがよい！",
+    "weight": 1,
+    "active": true
+  },
+  {
+    "name": "大吉01",
+    "fortune": "大吉",
+    "message": "プライベートでいい事ありそう（╹◡╹）♡\n仕事はさっさと切り上げて、帰っちゃいましょ〜",
+    "weight": 5,
+    "active": true
+  },
+  {
+    "name": "末吉04",
+    "fortune": "末吉",
+    "message": "何だか眠たい一日になるかも\n（´-`）.｡oO\n運転には気をつけて",
+    "weight": 1,
+    "active": true
+  },
+  {
+    "name": "凶04",
+    "fortune": "凶",
+    "message": "体調がすぐれないかも\n(Ｔ＿Ｔ)\n無理はせず、早めに休むことをおすすめします",
+    "weight": 1,
+    "active": true
+  }
 ]
